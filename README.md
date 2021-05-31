@@ -1,3 +1,5 @@
+⚠️ **THIS REPO IS DISCONTINUED SINCE IT HAS BEEN OFFICIALLY ADDED TO [CRACKMAPEXEC](https://github.com/byt3bl33d3r/CrackMapExec). IT WILL ONLY BE MAINTAINED THERE** ⚠️
+
 # CrackMapExec-MachineAccountQuota
 CrackMapExec module that retrieves the "MachineAccountQuota" domain-level attribute.
 
